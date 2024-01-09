@@ -1,0 +1,91 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/ux.png",
+      "title": "Front-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/coding.png",
+      "title": "Back-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/food.png",
+      "title": "FOOD-RECIPE INDEX PAGE",
+      "description": "Designed and developed a dynamic food recipe app using React for seamless user interaction and Tailwind CSS for a visually appealing interface.",
+      "link": "https://github.com/Uditha20/Food-recipe",
+      "preview":"https://glistening-sherbet-28a085.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/INVENT.PNG",
+      "title": "INVENTORY MANAGEMENT-BACKEND (ONGOING)",
+      "description": " an Inventory Management Backend project using Express.js, Node.js, and MongoDB. With features like secure authentication using JWT and strong password hashing with Bcrypt.js",
+      "link": "https://github.com/Uditha20/inverntory_app",
+      "preview":""
+
+    },
+    {
+      "id": "3",
+      "src": "./img/hedaweda.PNG",
+      "title": "HEDAWEDA LMS",
+      "description": "Developed an intuitive Learning Management System (LMS) for Hedaweda Institute using Bootstrap, PHP, and integrated Moodle LMS package. ",
+      "link": "https://github.com/Uditha20/LMS",
+      "preview":"https://hedaweda.com/"
+
+    },
+    {
+      "id": "4",
+      "src": "./img/login.PNG",
+      "title": "LOGIN AUTHENTICATION",
+      "description": "Built a MERN stack login systemn with MongoDB for secure data storage, Express.js for a robust backend, and React for a responsive frontend. Implemented JWT authentication and advanced password hashing techniques for enhanced security.",
+      "link": "https://github.com/Uditha20/login_auth"
+    },
+    {
+      "id": "5",
+      "src": "./img/ism.PNG",
+      "title": "VOTING & EVENT MANAGEMENT SYSTEM ",
+      "description": "Designed and developed a Voting Management System using Bootstrap and PHP, enabling seamless candidate registration and transparent result tracking. The user-friendly platform also facilitates efficient event management, allowing easy registrations for various activities and enhancing overall engagement",
+      "link": "https://github.com/Uditha20/ISAM_NEW"
+    },  {
+      "id": "6",
+      "src": "./img/todo.PNG",
+      "title": "TODO-APPLICATION",
+      "description": "Built a user-friendly Todo app using React and Tailwind CSS, seamlessly blending functionality and style. This project demonstrates my skill in creating easy-to-use interfaces for efficient task management",
+      "link": "https://github.com/Uditha20/todo-app"
+    },{
+      "id": "7",
+      "src": "./img/shop-cart.jpg",
+      "title": "SHOPPING CART",
+      "description": "Developed a responsive Shopping Cart application with React, offering users a seamless and enjoyable online shopping experience. This project showcases my expertise in crafting dynamic and user-centric interfaces for efficient e-commerce interactions.",
+      "link": "https://github.com/Uditha20/shopping-cart"
+    },{
+      "id": "8",
+      "src": "./img/first.PNG",
+      "title": "BANK-INDEX PAGE",
+      "description": "Built a finance index app with React for easy user interaction and a clean interface using Tailwind CSS. This project reflects my front-end skills, offering users a straightforward experience while exploring a variety of financial data.",
+      "link":"https://github.com/Uditha20/Beginner-friendly_my_first",
+      "preview": "https://elegant-starlight-35c40b.netlify.app/"
+    }
+
+    
+  ]
+}
