@@ -15,7 +15,7 @@ export default function HeroSection() {
         <a href="https://drive.google.com/file/d/1BPFO65dRwgR8s8YsrplSaD9W3f7O8DVm/view?usp=sharing" target="_blank"><button className="btn btn-primary">Download CV</button></a>
       </div>
       <div className="hero--section--img">
-        <img src="./img/hero-img.png" alt="Hero Section" />
+        <img src="./img/bhero-img.png" alt="Hero Section" />
       </div>
     </section>
   );

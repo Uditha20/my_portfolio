@@ -1,4 +1,5 @@
 import React, { useRef } from 'react';
+import {toast} from 'react-hot-toast';
 import emailjs from '@emailjs/browser';
 
 export default function ContactMe() {
@@ -9,10 +10,13 @@ export default function ContactMe() {
 
     emailjs.sendForm('service_rlijxkb', 'template_r7zyua5', form.current, 'actMDDvwXX4PiwcSW')
       .then((result) => {
-          console.log(result.text);
+        toast.success("successfull send");
+        console.log(result.text);
+        form.current.reset();
       }, (error) => {
           console.log(error.text);
       });
+
   };
   return (
     <section id="Contact" className="contact--section">
@@ -55,7 +59,7 @@ export default function ContactMe() {
           <label htmlFor="phone-number" className="contact--label">
             <span className="text-md">phone-number</span>
             <input
-              type="number"
+              type="text"
               className="contact--input text-md"
               name="phone-number"
               id="phone-number"
@@ -70,6 +74,7 @@ export default function ContactMe() {
             className="contact--input text-md"
             id="message"
             rows="8"
+            name="message"
             placeholder="Type your message..."
           />
         </label>
