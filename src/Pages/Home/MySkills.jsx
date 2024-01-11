@@ -79,7 +79,7 @@ export default function MySkills() {
         </div>
     </div>
     <div className="skill-box">
-        <span className="title">Server Management</span>
+        <span className="title">cPanel</span>
         <div className="skill-bar ">
             <span className="skill-per git">
                 <span className="tooltip">60%</span>
