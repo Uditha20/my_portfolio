@@ -24,7 +24,7 @@ export default function MyPortfolio() {
               </div>
               <div className="link-all">
               <p className="text-sm portfolio--link">
-                <a href={item.link} target="_blank" style={{textDecoration:"none"}}>view in Github</a>
+                <a href={item.link} target="_blank" style={{textDecoration:"none"}}>View in Github</a>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -42,21 +42,7 @@ export default function MyPortfolio() {
                 </svg>
               </p>
               <p className="text-sm portfolio--link">{
-                item.preview?<div> <a href={item.preview} target="_blank" style={{textDecoration:"none"}}>preview</a> <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="16"
-                height="16"
-                viewBox="0 0 20 19"
-                fill="none"
-              >
-                <path
-                  d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
-                  stroke="currentColor"
-                  stroke-width="2.66667"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                />
-              </svg></div>:null
+                item.preview?<div> <a href={item.preview} target="_blank" style={{textDecoration:"none"}}>Preview</a> </div>:null
               }
              
                
