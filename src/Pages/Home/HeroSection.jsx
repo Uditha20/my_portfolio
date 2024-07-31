@@ -12,7 +12,7 @@ export default function HeroSection() {
         <p className="hero--section-description">
 "I'm an aspiring full-stack developer passionate about creating user-friendly websites. I enjoy exploring new technologies and solving problems to build innovative and seamless web solutions."</p>
         </div>
-        <a href="https://drive.google.com/file/d/1BPFO65dRwgR8s8YsrplSaD9W3f7O8DVm/view?usp=sharing" target="_blank"><button className="btn btn-primary">Download CV</button></a>
+        <a href="https://drive.google.com/file/d/1CzS9lGDzRbHsAN1wshSI8tj2Zxi9xvBR/view?usp=sharing" target="_blank"><button className="btn btn-primary">Download CV</button></a>
       </div>
       <div className="hero--section--img">
         <img src="./img/bhero-img.png" alt="Hero Section" />

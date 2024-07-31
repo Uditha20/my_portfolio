@@ -1,0 +1,75 @@
+{
+    "Frontend": [
+      {
+        "name": "React",
+        "image": "/img/skills/react.svg",
+        "level": "Advanced"
+      },
+      {
+        "name": "Redux Toolkit",
+        "image": "/img/skills/redux.png",
+        "level": "Intermediate"
+      },
+      {
+        "name": "JavaScript",
+        "image": "/img/skills/javascript.png",
+        "level": "Advanced"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "/img/skills/bootstrap.png",
+        "level": "Intermediate"
+      }
+    ],
+    "Backend": [
+      {
+        "name": "Node.js",
+        "image": "/img/skills/nodejs.png",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Express.js",
+        "image": "/img/skills/expressjs.png",
+        "level": "Intermediate"
+      },
+      {
+        "name": "PHP",
+        "image": "/img/skills/php.png",
+        "level": "Advanced"
+      }
+    ],
+    "Databases": [
+      {
+        "name": "MongoDB",
+        "image": "/img/skills/mongodb.png",
+        "level": "Intermediate"
+      },
+      {
+        "name": "SQL",
+        "image": "/img/skills/sql.png",
+        "level": "Advanced"
+      }
+    ],
+    "Tools": [
+      {
+        "name": "Git",
+        "image": "/img/skills/git.png",
+        "level": "Intermediate"
+      },
+      {
+        "name": "GitHub",
+        "image": "/img/skills/github.png",
+        "level": "Intermediate"
+      }, {
+        "name": "Postman",
+        "image": "/img/skills/postman.jpg",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Docker",
+        "image": "/img/skills/docker.png",
+        "level": "Beginner"
+      }
+    ]
+  }
+  
