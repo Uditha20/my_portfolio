@@ -11,8 +11,7 @@ export default function AboutMe() {
             I am a passionate full-stack developer committed to creating
             efficient, scalable, and maintainable software solutions. My
             enthusiasm extends beyond the workplace.I dedicate my free time to
-            staying abreast of the latest technologies, contributing to
-            open-source projects, and embracing coding challenges. This dual
+            staying abreast of the latest technologies and embracing coding challenges. This dual
             commitment allows me to continuously refine my skills and contribute
             to the broader developer community. With a strong foundation in both
             front-end and back-end technologies, I am excited to bring my

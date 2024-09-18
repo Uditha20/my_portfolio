@@ -3,23 +3,13 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/food.png",
-      "title": "FOOD-RECIPE INDEX PAGE",
-      "description": "Designed and developed a dynamic food recipe app using React for seamless user interaction and Tailwind CSS for a visually appealing interface.",
-      "link": "https://github.com/Uditha20/Food-recipe",
-      "preview":"https://glistening-sherbet-28a085.netlify.app/"
+      "src": "./img/hoc2.png",
+      "title": "houseofcambridge e-commerce website",
+      "description": "Developed a comprehensive platform for managing student and faculty interactions, schedules, and resources. The system includes features like user authentication, course management, and real-time notifications. Utilized modern web technologies for both front-end and back-end development to ensure a seamless user experience and efficient system performance."
+     
     },
     {
       "id": "2",
-      "src": "./img/backend.PNG",
-      "title": "INVENTORY MANAGEMENT-BACKEND (ONGOING)",
-      "description": " an Inventory Management Backend project using Express.js, Node.js, and MongoDB. With features like secure authentication using JWT and strong password hashing with Bcrypt.js",
-      "link": "https://github.com/Uditha20/inverntory_app",
-      "preview":""
-
-    },
-    {
-      "id": "3",
       "src": "./img/hedaweda.PNG",
       "title": "HEDAWEDA LMS",
       "description": "Developed an intuitive Learning Management System (LMS) for Hedaweda Institute using Bootstrap, PHP, and integrated Moodle LMS package. ",
@@ -28,26 +18,51 @@
 
     },
     {
+      "id": "3",
+      "src": "./img/ism.PNG",
+      "title": "VOTING & EVENT MANAGEMENT SYSTEM ",
+      "description": "Designed and developed a Voting Management System using Bootstrap and PHP, enabling seamless candidate registration and transparent result tracking. The user-friendly platform also facilitates efficient event management, allowing easy registrations for various activities and enhancing overall engagement",
+      "link": "https://github.com/Uditha20/ISAM_NEW"
+    },
+    {
       "id": "4",
+      "src": "./img/nfc.png",
+      "title": "SMART NFC CARDS",
+      "description": "Developed an innovative platform offering a range of smart NFC cards and digital services designed to help users stay connected, organized, and productive in a fast-paced world. The solution integrates modern NFC technology with digital tools, allowing seamless sharing of information, enhanced connectivity, and improved efficiency for personal and professional use."
+
+      
+    },
+    {
+      "id": "5",
+      "src": "./img/crm.png",
+      "title": "Customer Management System",
+      "description": "This system provides a centralized platform for managing customer information, overseeing customer status levels, generating reports"
+    },
+    {
+      "id": "6",
+      "src": "./img/food.png",
+      "title": "FOOD-RECIPE INDEX PAGE",
+      "description": "Designed and developed a dynamic food recipe app using React for seamless user interaction and Tailwind CSS for a visually appealing interface.",
+      "link": "https://github.com/Uditha20/Food-recipe",
+      "preview":"https://glistening-sherbet-28a085.netlify.app/"
+    },
+   
+  
+    {
+      "id": "7",
       "src": "./img/login.PNG",
       "title": "LOGIN AUTHENTICATION",
       "description": "Built a MERN stack login systemn with MongoDB for secure data storage, Express.js for a robust backend, and React for a responsive frontend. Implemented JWT authentication and advanced password hashing techniques for enhanced security.",
       "link": "https://github.com/Uditha20/login_auth"
     },
-    {
-      "id": "5",
-      "src": "./img/ism.PNG",
-      "title": "VOTING & EVENT MANAGEMENT SYSTEM ",
-      "description": "Designed and developed a Voting Management System using Bootstrap and PHP, enabling seamless candidate registration and transparent result tracking. The user-friendly platform also facilitates efficient event management, allowing easy registrations for various activities and enhancing overall engagement",
-      "link": "https://github.com/Uditha20/ISAM_NEW"
-    },  {
-      "id": "6",
+     {
+      "id": "8",
       "src": "./img/todo.PNG",
       "title": "TODO-APPLICATION",
       "description": "Built a user-friendly Todo app using React and Tailwind CSS, seamlessly blending functionality and style. This project demonstrates my skill in creating easy-to-use interfaces for efficient task management",
       "link": "https://github.com/Uditha20/todo-app"
     },{
-      "id": "7",
+      "id": "9",
       "src": "./img/shop-cart.jpg",
       "title": "SHOPPING CART",
       "description": "Developed a responsive Shopping Cart application with React, offering users a seamless and enjoyable online shopping experience. This project showcases my expertise in crafting dynamic and user-centric interfaces for efficient e-commerce interactions.",
